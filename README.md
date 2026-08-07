@@ -18,6 +18,10 @@ Provider-agnostic agentic framework, handwritten in Go. A bounded, event-driven 
 
 Desktop app for keeping an LLM-powered wiki current as its source material changes. It syncs the raw material and gives the model a focused report of what needs to be incorporated.
 
+### [OpenX](https://github.com/psuijk/openx)
+
+CLI for launching project-specific terminal workspaces: editor, terminal tabs, and background tasks from a single command.
+
 ### [Cardlang](https://www.cardlang.ai/search)
 
 Natural-language search for Magic: The Gathering cards, built on Neuromod.
@@ -25,6 +29,10 @@ Natural-language search for Magic: The Gathering cards, built on Neuromod.
 ### Manafest — coming soon
 
 MTG companion platform for game tracking, deck management, playgroups, and data analytics across your personal and playgroup history.
+
+### [Neuromod](https://github.com/psuijk/neuromod-py)
+
+Type-safe LLM inference library with step-function pipelines, Pydantic-based tools, and opt-in thread persistence. Heavily inspired by [nvms/threaded](https://github.com/nvms/threaded).
 
 #### 🛠 Stack
 
