@@ -2,7 +2,7 @@
 
 Software engineer and tech lead. I build production AI systems and the tools to make them.
 
-Started as a music producer and learned that building software and building a song share a similar process: compose something out of many small pieces and iterate on it. These days I spend most of my time on LLM applications and agent infrastructure, and I'm pushing deeper into the systems side through Go and Rust
+Started as a music producer and learned that building software and building a song share a similar process: compose something out of many small pieces and iterate on it. These days I spend most of my time on LLM applications and agent infrastructure, and I'm pushing deeper into the systems side through Go and Rust.
 
 🌐 [psuijk.github.io](https://psuijk.github.io/)
 
