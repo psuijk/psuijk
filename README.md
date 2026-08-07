@@ -41,10 +41,3 @@ MTG companion platform for game tracking, deck management, playgroups, and data 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-#### 📊 Stats
-
-<a href="https://github.com/psuijk">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=psuijk&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psuijk&layout=compact&hide_border=true&theme=dark&langs_count=8" />
-</a>
