@@ -20,7 +20,7 @@ Natural-language search for Magic: The Gathering cards, built on Neuromod.
 
 ### Manafest — coming soon
 
-MTG companion platform for game tracking, deck management, playgroups, and data analytics across your personal and playgroup history.
+TCG platform for game tracking, deck management, playgroups, and data analytics across your personal and playgroup history.
 
 ### [Neuromod](https://github.com/psuijk/neuromod-py)
 
