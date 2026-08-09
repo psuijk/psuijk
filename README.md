@@ -8,7 +8,7 @@
 
 ### [Golem](https://github.com/psuijk/golem)
 
-Provider-agnostic agentic framework, handwritten in Go. A bounded, event-driven agent loop with tool-use coordination, filesystem sandboxing, and minimal dependencies.
+Provider-agnostic llm harness, handwritten in Go. A bounded, event-driven agent loop with tool-use coordination, filesystem sandboxing, and minimal dependencies.
 
 ### [Silt](https://github.com/psuijk/silt)
 
