@@ -26,6 +26,10 @@ TCG platform for game tracking, deck management, playgroups, and data analytics 
 
 Type-safe LLM inference library with step-function pipelines, Pydantic-based tools, and opt-in thread persistence. Heavily inspired by [nvms/threaded](https://github.com/nvms/threaded).
 
+### [Laplace](https://github.com/psuijk/laplace)
+
+POC for a candidate sourcing pipeline for executive search, built on Neuromod. A typed, contract-first phase sequence — spec parsing, institution discovery, multi-source harvesting, dedup/enrichment, two-tier LLM scoring, export — with every stage persisted and independently resumable.
+
 ### [OpenX](https://github.com/psuijk/openx)
 
 CLI for launching project-specific terminal workspaces: editor, terminal tabs, and background tasks from a single command.
